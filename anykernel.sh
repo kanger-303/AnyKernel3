@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel = By @Zyusz 
+kernel.string=Kernol developer @Zyusz
 do.devicecheck=1
 do.modules=0
 do.systemless=1
